@@ -2,7 +2,7 @@
 
 ## Group Members - Group 4
 - [Tobias Allers]()
-- [Luke Mabry]()
+- [Luke Mabry](https://github.com/Luke111033/TableauGroupProject4610/blob/main/README.md)
 - [Alicia Lim]()
 - [Chris Sierra]()
 - [Pranav Rohit]()

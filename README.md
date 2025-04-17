@@ -23,7 +23,8 @@ Why it matters: Informs sustainable urban planning, climate policy
 
 Data tie-in: Columns like D1a (population density), D2a_E5 (employment mix), D3bpo4 (VMT per capita)
 
-##Project Outline:
+
+## Project Outline:
 Dataset Description
 Title: EPA Smart Location Database (Version 3, January 2021)
 

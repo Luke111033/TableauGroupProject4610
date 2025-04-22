@@ -11,7 +11,7 @@
 Link: https://catalog.data.gov/dataset/walkability-index8
 
 ## 2 questions:
-Project 2 – Group Question 1
+## Project 2 – Group Question 1
 How does vehicle ownership vary by population density?
 
 This question explores the relationship between access to private transportation and the density of an area. Areas with higher population density may offer better transit infrastructure, reducing the need for personal vehicles. On the other hand, rural areas often lack public transit, making vehicle ownership essential.
@@ -28,7 +28,7 @@ Planned analysis: Categorize block groups into Urban, Suburban, and Rural using 
 
 Expected visualization: Bar chart or boxplot showing the percent of households with no vehicles by density category.
 
-Project 2 – Group Question 2
+## Project 2 – Group Question 2
 Do areas with more diverse land use tend to have lower vehicle miles traveled per capita?
 
 This question looks at how the mix of land uses (e.g. jobs, services, housing) within an area affects travel behavior. Denser and more mixed-use areas are theorized to support shorter trips and more walking or transit usage.

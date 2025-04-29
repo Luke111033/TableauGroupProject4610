@@ -17,16 +17,6 @@ Source: Smart Location Database (Version 2.0, EPA)
 Level of Detail : Census Block Group Level (~220,000 block groups across the U.S.)
 Dimensions: Approximately 220,000 rows (one per block group), 100+ columns (variables)
 
-Key Variables Used:
-D1A: Gross population density (persons per acre) – numeric
-Pct_AO0: Percent of households with zero vehicles – numeric (0-100 scale)
-D2B_E5MIX: Employment-based land use diversity index (0 to 1, where 1 = highest mix) – numeric
-D3BPO4: Vehicle miles traveled (VMT) per capita – numeric
-Additional spatial variables: census region, metro status (for categorization)
-
-These variables provide a basis for analyzing the relationship in both questions.
-
-
 ## 2 questions:
 ## Project 2 – Group Question 1
 "To what extent do population density, intersection density, and transit accessibility together explain differences in vehicle ownership across U.S. neighborhoods?"

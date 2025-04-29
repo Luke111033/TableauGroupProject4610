@@ -23,7 +23,7 @@ Dimensions: Approximately 220,000 rows (one per block group), 100+ columns (vari
 
 This question explores the relationship between access to private transportation and the density of an area. Areas with higher population density may offer better transit infrastructure, reducing the need for personal vehicles. On the other hand, rural areas often lack public transit, making vehicle ownership essential. This data visualization can answer questions regarding the changes necesssary for more inclusive public transit infrastructure in the United States.
 
-Why it matters: This ties directly into social and economic accessibility. Mixed-use areas—where jobs, housing, and services co-exist—can reduce the need for long vehicle trips, encouraging walking, biking, or transit use. Reducing VMT is also vital for cutting greenhouse gas emissions and combating climate change. Households without vehicles face limited job access and daily mobility challenges.
+Why it matters: This ties directly into social and economic accessibility. Households without vehicles face limited job access and daily mobility challenges.
 
 Data used:
 
@@ -40,7 +40,7 @@ Do areas with more diverse land use tend to have lower vehicle miles traveled pe
 
 This question looks at how the mix of land uses (e.g. jobs, services, housing) within an area affects travel behavior. Denser and more mixed-use areas are theorized to support shorter trips and more walking or transit usage.
 
-Why it matters: This analysis can support sustainable planning by identifying how mixed-use development might reduce car dependence and emissions.
+Why it matters: ixed-use areas—where jobs, housing, and services co-exist—can reduce the need for long vehicle trips, encouraging walking, biking, or transit use. Reducing VMT is also vital for cutting greenhouse gas emissions and combating climate change. This analysis can support sustainable planning by identifying how mixed-use development might reduce car dependence and emissions.
 
 Data used:
 

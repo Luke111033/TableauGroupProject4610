@@ -10,7 +10,7 @@
 ## Data Set: Walkability Index
 Link: https://catalog.data.gov/dataset/walkability-index8
 
-##Data Set Description: 
+Data Set Description: 
 Our project utilizes data from the Smart Location Database (SLD), developed by the U.S. Environmental Protection Agency (EPA). The SLD provides a nationwide, standardized dataset at the Census block group level, offering an array of variables that describe characteristics of the built environment, transportation systems, and demographics. This dataset is particularly well-suited for exploring how urban form and accessibility influence transportation behavior.
 
 Source: Smart Location Database (Version 2.0, EPA)

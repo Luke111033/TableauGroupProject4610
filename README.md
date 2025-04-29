@@ -50,7 +50,7 @@ D3BPO4: Vehicle miles traveled (VMT) per capita
 
 Planned analysis: Scatter plot of D2B_E5MIX vs. D3BPO4 to identify trends or correlations.
 
-Expected visualization: Scatter plot with a trendline in Tableau.
+Expected visualization: Scatter plot in Tableau.
 
 
 

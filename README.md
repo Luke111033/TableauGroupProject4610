@@ -33,9 +33,9 @@ Pct_AO0: Percent of households with zero vehicles
 
 Statefp: Used to assign East or West region labels
 
-Planned analysis: 
+Planned analysis: Boxplot of Pct_AO0 (percent of households with zero vehicles) by East vs. West regions in medium–high density areas to compare distributions.
 
-Expected visualization: 
+Expected visualization: Boxplot in Tableau.
 
 ![image](https://github.com/user-attachments/assets/e8bde08c-6994-4ba9-860e-4c6b118295a3)
 

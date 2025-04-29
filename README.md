@@ -21,9 +21,9 @@ Dimensions: Approximately 220,000 rows (one per block group), 100+ columns (vari
 ## Project 2 – Group Question 1
 "To what extent do population density, intersection density, and transit accessibility together explain differences in vehicle ownership across U.S. neighborhoods?"
 
-This question explores the relationship between access to private transportation and the density of an area. Areas with higher population density may offer better transit infrastructure, reducing the need for personal vehicles. On the other hand, rural areas often lack public transit, making vehicle ownership essential. This data visualization can answer questions regarding the changes necesssary for more inclusive public transit infrastructure in the United States. 
+This question explores the relationship between access to private transportation and the density of an area. Areas with higher population density may offer better transit infrastructure, reducing the need for personal vehicles. On the other hand, rural areas often lack public transit, making vehicle ownership essential. This data visualization can answer questions regarding the changes necesssary for more inclusive public transit infrastructure in the United States.
 
-Why it matters: This ties directly into social and economic accessibility. Households without vehicles face limited job access and daily mobility challenges.
+Why it matters: This ties directly into social and economic accessibility. Mixed-use areas—where jobs, housing, and services co-exist—can reduce the need for long vehicle trips, encouraging walking, biking, or transit use. Reducing VMT is also vital for cutting greenhouse gas emissions and combating climate change. Households without vehicles face limited job access and daily mobility challenges.
 
 Data used:
 

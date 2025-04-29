@@ -40,7 +40,7 @@ Do areas with more diverse land use tend to have lower vehicle miles traveled pe
 
 This question looks at how the mix of land uses (e.g. jobs, services, housing) within an area affects travel behavior. Denser and more mixed-use areas are theorized to support shorter trips and more walking or transit usage.
 
-Why it matters: ixed-use areas—where jobs, housing, and services co-exist—can reduce the need for long vehicle trips, encouraging walking, biking, or transit use. Reducing VMT is also vital for cutting greenhouse gas emissions and combating climate change. This analysis can support sustainable planning by identifying how mixed-use development might reduce car dependence and emissions.
+Why it matters: Mixed-use areas where jobs, services, and housing, are can reduce the need for long vehicle trips, encouraging walking, biking, or transit use. Reducing VMT is also vital for cutting greenhouse gas emissions and combating climate change. This analysis can support sustainable planning by identifying how mixed-use development might reduce car dependence and emissions.
 
 Data used:
 

@@ -39,7 +39,8 @@ Expected visualization:
 
 ![image](https://github.com/user-attachments/assets/e8bde08c-6994-4ba9-860e-4c6b118295a3)
 
-Analysis:
+### Analysis
+
 
 ## Project 2 – Group Question 2
 Do areas with more diverse land use tend to have lower vehicle miles traveled per capita?

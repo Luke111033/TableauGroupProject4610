@@ -19,21 +19,21 @@ Dimensions: Approximately 220,000 rows (one per block group), 100+ columns (vari
 
 ## 2 questions:
 ## Project 2 – Group Question 1
-"To what extent do population density, intersection density, and transit accessibility together explain differences in vehicle ownership across U.S. neighborhoods?"
+"How does the distribution of vehicle ownership differ between Eastern and Western U.S. regions in medium-to-high density neighborhoods, and what does this reveal about regional differences in urban planning and transportation access?"
 
-This question explores the relationship between access to private transportation and the density of an area. Areas with higher population density may offer better transit infrastructure, reducing the need for personal vehicles. On the other hand, rural areas often lack public transit, making vehicle ownership essential. This data visualization can answer questions regarding the changes necesssary for more inclusive public transit infrastructure in the United States.
+This question examines how vehicle ownership patterns vary across regions even when population density is held constant. By comparing medium- and high-density block groups between the East and West, we can explore how infrastructure, public transit availability, and walkability contribute to car dependence or independence. While high-density areas typically reduce the need for cars, this may not hold equally across all regions due to planning and transit differences. The visualization helps highlight how geography influences transportation behavior beyond just density.
 
-Why it matters: This ties directly into social and economic accessibility. Households without vehicles face limited job access and daily mobility challenges.
+Why it matters: Regional gaps in vehicle access reflect broader differences in transit investment and planning priorities. Understanding these patterns supports better policymaking for equitable mobility and infrastructure development.
 
 Data used:
 
-D1A: Gross population density
+D1B: Gross population density (people per acre)
 
 Pct_AO0: Percent of households with zero vehicles
 
-Planned analysis: Categorize block groups into Urban, Suburban, and Rural using D1A, then compare Pct_AO0 across those bins.
+Statefp: Used to assign East or West region labels
 
-Expected visualization: Bar chart or boxplot showing the percent of households with no vehicles by density category.
+![image](https://github.com/user-attachments/assets/e8bde08c-6994-4ba9-860e-4c6b118295a3)
 
 ## Project 2 – Group Question 2
 Do areas with more diverse land use tend to have lower vehicle miles traveled per capita?

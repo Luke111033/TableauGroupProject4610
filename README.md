@@ -1,7 +1,7 @@
 # TableauGroupProject4610
 
 ## Group Members - Group 4
-- [Tobias Allers]()
+- [Tobias Allers](https://github.com/tka29934/MIST-4610-project-2)
 - [Luke Mabry](https://github.com/Luke111033/TableauGroupProject4610/blob/main/README.md)
 - [Alicia Lim](https://github.com/alicianlim/Project-2-4610)
 - [Chris Sierra](https://github.com/Chrissi3rraa/4610-Project-2)

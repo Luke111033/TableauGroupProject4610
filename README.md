@@ -35,6 +35,18 @@ Statefp: Used to assign East or West region labels
 
 Planned analysis: Boxplot of Pct_AO0 (percent of households with zero vehicles) by East vs. West regions in medium–high density areas to compare distributions.
 
+Calculated fields:
+Region_EastWest: Categorizes each row as “East” or “West” based on State FIPS codes.
+IF [Statefp] IN (9, 23, 25, 33, 34, 36, 42, 44, 50, 1, 10, 11, 12, 13, 24, 37, 45, 47, 51, 54)
+THEN "East"
+ELSE "West"
+END
+Density Category: Groups population density into Low, Medium, and High.
+IF [D1B] < 100 THEN "Low"
+ELSEIF [D1B] < 300 THEN "Medium"
+ELSE "High"
+END
+
 Expected visualization: Boxplot in Tableau.
 
 ![image](https://github.com/user-attachments/assets/e8bde08c-6994-4ba9-860e-4c6b118295a3)

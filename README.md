@@ -72,7 +72,7 @@ Planned analysis: Scatter plot of D2B_E5MIX vs. D3BPO4 to identify trends or cor
 
 Expected visualization: Scatter plot in Tableau.
 
-calculations performed = to create the seperations between rural, suburban, and urban, an if function was used. Any city with a population over 100 thousand was deemed urban, between 100 thousand and 5 thousand suburban, and rural lying under 5 thousand.
+calculations performed = to create the seperations between rural, suburban, and urban, an if function was used. Any city with a population over 100 thousand was deemed urban, between 100 thousand and 10 thousand suburban, and rural lying under 10 thousand.
 
 ![Final Tableau 2](https://github.com/user-attachments/assets/7d0bdf8e-fee6-4cdc-809c-0bae4e285a2a)
 

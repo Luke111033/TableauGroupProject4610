@@ -5,7 +5,7 @@
 - [Luke Mabry](https://github.com/Luke111033/TableauGroupProject4610/blob/main/README.md)
 - [Alicia Lim](https://github.com/alicianlim/Project-2-4610)
 - [Chris Sierra](https://github.com/Chrissi3rraa/4610-Project-2)
-- [Pranav Rohit]()
+- [Pranav Rohit](https://github.com/pra984-star/Group-Project-2/blob/main/README.md)
 
 ## Data Set: Walkability Index
 Link: https://catalog.data.gov/dataset/walkability-index8
